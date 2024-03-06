@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MagiHotline</h1>
+<h1 align="center">Hello there, Magi here!</h1>
 <h3 align="center">A Junior Developer based in Italy, Undergraduate in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magihotline&label=Profile%20views&color=0e75b6&style=flat" alt="magihotline" /> </p>
