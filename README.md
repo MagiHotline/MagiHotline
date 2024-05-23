@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magihotline&label=Profile%20views&color=0e75b6&style=flat" alt="magihotline" /> </p>
 
-- 🔭 I’m currently working on **nothing in particular**
+- 🔭 I’m currently working on **building my portfolio site**
 
 - 🌱 I’m currently learning **fundamentals of computer science**
 
