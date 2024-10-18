@@ -7,11 +7,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15897310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15897310" height="30" width="40" /></a>
-  <a href="mailto:paoloimbrmagi@gmail.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="Gmail" width="40" height="40"/>
-  </a>
-    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord: HeilRamses#9100" width="40" height="40"/>
-  </a>
+<a href="mailto:paoloimbrmagi@gmail.com"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp" alt="Gmail" width="40" height="40"/></a>
+<img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord: HeilRamses#9100" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
