@@ -13,10 +13,6 @@
 <img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord: HeilRamses#9100" width="40" height="40"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=magihotline&label=Profile%20views&color=0e75b6&style=flat" alt="magihotline" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=magihotline&label=Profile%20views&color=0e75b6&style=flat" alt="magihotline" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magihotline&show_icons=true&locale=en&layout=compact" alt="magihotline" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magihotline&show_icons=true&locale=en" alt="magihotline" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magihotline&" alt="magihotline" /></p>
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=magihotline&show_icons=true&locale=en&layout=compact" alt="magihotline" /></p>
