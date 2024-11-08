@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="[https://skillicons.dev](https://linkedin.com/in/https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/)">
+  <a href="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     <img src="https://skillicons.dev/icons?i=discord"/>
