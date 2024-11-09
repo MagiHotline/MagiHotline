@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <img src="https://skillicons.dev/icons?i=discord"/>
+ <img src="https://skillicons.dev/icons?i=discord"/>
   <a href="mailto:paoloimbrmagi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
