@@ -4,7 +4,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://skillicons.dev">
+<a href="https://imbrianipaolo.com">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,php,mysql,js,ts,astro,git,latex,r,godot" />
   </a>
 </p>
