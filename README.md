@@ -25,4 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagiHotline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MagiHotline&theme=dracula)](https://git.io/streak-stats)
+<div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MagiHotline&theme=dracula)](https://git.io/streak-stats)
+</div>
