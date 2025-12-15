@@ -21,13 +21,6 @@
   </a>
 </p>
 
+![Paolo Imbriani's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagiHotline&theme=dracula&show_icons=true&include_all_commits=true)
 
-<div align="center">
-    
-    <a href="https://github-readme-stats.vercel.app/api?username=MagiHotline&theme=dracula&show_icons=true&include_all_commits=true" target="_blank" />
-
-    <a href="https://github-readme-stats.vercel.app/api?username=MagiHotline&theme=dracula&show_icons=true&include_all_commits=true" target="_blank" />
-    
-    <a href="https://github-readme-stats.vercel.app/api?username=MagiHotline&theme=dracula&show_icons=true&include_all_commits=true" target="_blank"/>
-    
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagiHotline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
