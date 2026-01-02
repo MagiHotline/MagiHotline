@@ -20,7 +20,3 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
-
-![Paolo Imbriani's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagiHotline&theme=dracula&show_icons=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagiHotline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
