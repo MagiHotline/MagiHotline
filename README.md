@@ -22,10 +22,13 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
-<br>
-<br>
 
 <div align=center>
   <a href="https://imbrianipaolo.com/">My personal website</a>
 </div>
+<br>
+<br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagiHotline&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagiHotline&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagiHotline&theme=blueberry)
