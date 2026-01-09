@@ -1,6 +1,9 @@
 <h1 align="center">Hello there, Magi here!</h1>
-<h3 align="center">A Junior Developer based in Italy, Undergraduate in Computer Science.</h3>
 
+![](https://komarev.com/ghpvc/?username=MagiHotline&color=dc143c&style=for-the-badge)
+
+
+<h3 align="center">A Junior Developer based in Italy, Undergraduate in Computer Science.</h3>
 
 <h3 align="center">My main languages and tools:</h3>
 <p align="center"> 
@@ -8,8 +11,6 @@
     <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,godot" />
   </a>
 </p>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,5 +26,6 @@
 <br>
 
 <div align=center>
-  <a href="https://fabiooo4.github.io/">My personal website</a>
+  <a href="https://imbrianipaolo.com/">My personal website</a>
 </div>
+
