@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[My personal website](https://imbrianipaolo.com/)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -21,3 +21,9 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
+<br>
+<br>
+
+<div align=center>
+  <a href="https://fabiooo4.github.io/">My personal website</a>
+</div>
