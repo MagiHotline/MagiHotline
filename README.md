@@ -8,7 +8,7 @@
 <h3 align="center">My main languages and tools:</h3>
 <p align="center"> 
 <a href="https://imbrianipaolo.com">
-    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,godot" />
+    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,svelte,godot" />
   </a>
 </p>
 
