@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img src="https://i.postimg.cc/tJ1FVCf6/le-se-ducteur-nintendo.gif" alt="link_swinging" width=350 align="right"/>
+<img src="https://i.postimg.cc/tJ1FVCf6/le-se-ducteur-nintendo.gif" alt="link_swinging" width=300 align="right"/>
 
 <p align="left">I'm a Computer Science student from Italy, currently finishing my Bachelors.</h3>
 <p align="left">My main languages and tools:</h3>
