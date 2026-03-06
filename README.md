@@ -5,11 +5,12 @@
 </p>
 
 <div align="left">
-  <img src="https://i.postimg.cc/tJ1FVCf6/le-se-ducteur-nintendo.gif" alt="link_swinging" width="300" align="right" />
-  <h3>I'm a Computer Science student from Italy, currently finishing my Bachelors.</h3>
+  <img src="https://i.postimg.cc/tJ1FVCf6/le-se-ducteur-nintendo.gif" alt="link_swinging" width="400" align="right" />
+  <p>I'm a Computer Science student from Italy, 
+    <br>currently finishing my Bachelors.</p>
   <p><b>My main languages and tools:</b></p>
   <a href="https://imbrianipaolo.com">
-    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,python,godot" />
+    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro" />
   </a>
 
   <h3>Connect with me:</h3>
@@ -23,7 +24,7 @@
     </a>
   </p>
 
-  <p>You can find my blog posts and other stuff about me on my <a href="https://imbrianipaolo.com/"><b>personal website!</b></a></p>
+  <p>You can find my blog posts and other stuff <br>about me on my <a href="https://imbrianipaolo.com/"><b>personal website!</b></a></p>
 </div>
 
 <br clear="right" />
