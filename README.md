@@ -4,11 +4,13 @@
 
 <div align="left">
 
+<img src="https://i.postimg.cc/tJ1FVCf6/le-se-ducteur-nintendo.gif" alt="link_swinging" width=350 align="right"/>
+
 <p align="left">I'm a Computer Science student from Italy, currently finishing my Bachelors.</h3>
 <p align="left">My main languages and tools:</h3>
 <p align="left"> 
 <a href="https://imbrianipaolo.com">
-    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,svelte,godot" />
+    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,python,godot" />
   </a>
 </p>
 
@@ -21,7 +23,6 @@
   <a href="mailto:paoloimbrmagi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-
 
 
 <div align="left">
