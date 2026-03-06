@@ -1,19 +1,19 @@
-<h1 align="center">Hello there, Magi here!</h1>
+<h1 align="left">Hello there, Magi here!</h1>
 
 ![](https://komarev.com/ghpvc/?username=MagiHotline&color=dc143c&style=for-the-badge)
 
+<div align="left">
 
-<h3 align="center">A Junior Developer based in Italy, Undergraduate in Computer Science.</h3>
-
-<h3 align="center">My main languages and tools:</h3>
-<p align="center"> 
+<p align="left">I'm a Computer Science student from Italy, currently finishing my Bachelors.</h3>
+<p align="left">My main languages and tools:</h3>
+<p align="left"> 
 <a href="https://imbrianipaolo.com">
     <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,svelte,godot" />
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -21,13 +21,16 @@
   <a href="mailto:paoloimbrmagi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-</p>
 
-<div align=center>
-  <a href="https://imbrianipaolo.com/">My personal website</a>
+
+
+<div align="left">
+  <p>You can find my blog posts and other stuff about me on my <a href="https://imbrianipaolo.com/">personal website!</a></p>
 </div>
 <br>
 <br>
+
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagiHotline&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MagiHotline&theme=blueberry)
