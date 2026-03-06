@@ -10,17 +10,17 @@
     <br>currently finishing my Bachelors.</p>
   <p><b>My main languages and tools:</b></p>
   <a href="https://imbrianipaolo.com">
-    <img src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro" />
+    <img width="450" src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,postgres" />
   </a>
 
   <h3>Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      <img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <img width="40" src="https://skillicons.dev/icons?i=discord" alt="Discord" />
     <a href="mailto:paoloimbrmagi@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+      <img width="40" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
   </p>
 
