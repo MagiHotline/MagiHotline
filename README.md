@@ -16,6 +16,9 @@
 
   <h3>Connect with me:</h3>
   <p>
+    <a href="https://bsky.app/profile/magidoof.bsky.social">
+      <img width="40" src="https://skills.syvixor.com/api/icons?i=bluesky"/>
+    </a>
     <a href="https://www.linkedin.com/in/paolo-imbriani-ba1b7b215/" target="_blank">
       <img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
