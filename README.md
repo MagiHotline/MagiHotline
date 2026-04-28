@@ -31,9 +31,6 @@
   <p>You can find my blog posts and other stuff <br>about me on my <a href="https://imbrianipaolo.com/"><b>personal website!</b></a></p>
 </div>
 
-<br clear="right" />
-<br/>
-
 <details>
   <summary>Github Stats</summary>
   <p align="center">
