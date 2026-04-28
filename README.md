@@ -10,7 +10,7 @@
     <br>currently finishing my Bachelors.</p>
   <p><b>My main languages and tools:</b></p>
   <a href="https://imbrianipaolo.com">
-    <img width="400" src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,git,astro,postgres" />
+    <img width="400" src="https://skillicons.dev/icons?i=rust,haskell,c,cpp,java,latex,apple,astro,postgres" />
     <img width="40" src="https://skills.syvixor.com/api/icons?i=agda"/>
   </a>
 
